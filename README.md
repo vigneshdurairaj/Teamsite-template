@@ -1,2 +1,2 @@
-# Teamsite-template
-This is a template for a team site. 
+# Teams-website
+Teams' website
