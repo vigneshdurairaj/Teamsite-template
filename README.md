@@ -1,2 +1,2 @@
 # Teamsite-template
-This is a template for a personal site. 
+This is a template for a team site. 
